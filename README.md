@@ -1,0 +1,2 @@
+# bm-wiki
+Personal wiki
