@@ -1,17 +1,10 @@
 # BM Wiki
 
-## Setup
+I'm Mattia, a Full Stack Developer. Welcome to my Wiki.
 
-Create `/db-data` folder.
+## Projects
 
-Create `.env` file and set the following variables:
-
-```sh
-export BM_WIKI_DB_PASS=""
-```
-
-## Docker start
-
-```
-docker compose up -d
-```
+- [Tic Tac Toe 3D](./projects/tictactoe/README.md): Tic Tac Toe game in 3D mode served by full stack javascript framework.
+- [BM Signature](./projects/bm-signature/README.md): Personal in-code signature for Node.js based projects.
+- [Smeup No Code](./projects/smeup-nc/README.md): No Code integration for Smeup UI.
+- [BM Cluster](./projects/bm-cluster/README.md): IaaS-based project whose role is to manage the deployment of my applications.
